@@ -26,7 +26,7 @@ namespace GroovyRP
 
         public bool IsUsingAudio()
         {
-            var grooveMusics = Process.GetProcessesByName("Music.UI");
+            var grooveMusics = Process.GetProcessesByName("Microsoft.Media.Player");
             if (grooveMusics.Any())
             {
                 AudioSessionManager2 sessionManager;
