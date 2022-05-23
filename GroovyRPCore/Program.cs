@@ -78,6 +78,7 @@ namespace GroovyRP
                         isPresenceActive = false;
                     }
                 }
+               Thread.Sleep(15000);
             }
         }
 
