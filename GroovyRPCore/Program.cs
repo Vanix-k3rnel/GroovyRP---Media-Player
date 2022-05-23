@@ -7,7 +7,7 @@ namespace GroovyRP
 {
     class Program
     {
-        private const string appDetails = "GroovyRP\nhttps://github.com/dsdude123/GroovyRP\n";
+        private const string appDetails = "GroovyRP\nhttps://github.com/dsdude123/GroovyRP Fixed for Media player by https://github.com/Vanix-k3rnel\n";
         private static readonly DiscordRpcClient _client = new DiscordRpcClient("737646410354130955", autoEvents: false);
         private static readonly GrooveInfoFetcher _grooveInfoFetcher = new GrooveInfoFetcher();
         private static string pressenceDetails = string.Empty;
