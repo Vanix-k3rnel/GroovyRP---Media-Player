@@ -1,16 +1,11 @@
 # GroovyRP
-Groove Music Rich Presence for Discord
+Groove Music Rich Presence for Discord. This version is fixed for windows 11 Media player.
 ## System Requirements:
 
 * Windows 10 version 1809 or newer
 * Groove Music
 * .NET Framework 4.7.2 or newer
 * Discord (desktop client only)
-## How to Use:
-
-* Download the latest release of GroovyRP https://github.com/dsdude123/GroovyRP/releases/latest
-* Extract GroovyRP.zip.
-* Run GroovyRP.exe.
 
 ## Changes since last version:
 
