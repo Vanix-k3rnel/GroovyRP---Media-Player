@@ -240,7 +240,7 @@ namespace GroovyRPHelper
 
         public static void checkGrooveMusicStatus()
         {
-            Process[] grooveMusics = Process.GetProcessesByName("Music.UI");
+            Process[] grooveMusics = Process.GetProcessesByName("Microsoft.Media.Player");
             if (grooveMusics.Length < 1)
             {
                 Environment.Exit(0);
